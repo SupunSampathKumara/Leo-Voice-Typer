@@ -3,7 +3,7 @@ LEO Voice Typer v2.0 - README
 1. Information (About the Software)
 LEO Voice Typer is a free voice-typing application designed to help users easily type in Sinhala, Tamil, and English using their voice. This software was proudly developed by the Leo Club of University of Colombo, Faculty of Arts, under the "Able Hands" project. Version 2.0 is specially optimized for visually impaired students, allowing full control through simple keyboard shortcuts and screen readers.
 
-2. Installation Guideline
+2. Installation Guideline 
 Follow these simple steps to install the software on your computer:
 
 Step 1: Double-click the setup file to open the installer.
